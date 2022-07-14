@@ -1,0 +1,32 @@
+/*!*******************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[1].use[2]!./node_modules/sass-loader/dist/cjs.js!./src/index.scss ***!
+  \*******************************************************************************************************************************************************************************/
+@font-face {
+  font-family: Montserrat;
+  src: url(fonts/481134428cece6c5b8d4.woff), format("woff"), url(fonts/31094690be22bb312acf.woff2), format("woff2");
+  font-weight: 700;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(fonts/32fac211b406d4909c6a.woff), format("woff"), url(fonts/eb1fe556fad04ca9e203.woff2), format("woff2");
+  font-weight: 600;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(fonts/f67239140478f1e419b1.woff), format("woff"), url(fonts/7007beda385ece0e29e2.woff2), format("woff2");
+  font-weight: 500;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(fonts/c767559b68fb1b8723dd.woff), format("woff"), url(fonts/a3dd19f1cbf69cac0be0.woff2), format("woff2");
+  font-weight: 400;
+}
+@font-face {
+  font-family: Montserrat;
+  src: url(fonts/31851fa6ce5f586c4f16.woff), format("woff"), url(fonts/6ec50ced225941a85fa1.woff2), format("woff2");
+  font-weight: 300;
+}
+body {
+  font-family: Montserrat, sans-serif;
+  background-color: rgb(10, 145, 100);
+}
